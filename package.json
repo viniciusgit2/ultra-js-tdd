@@ -6,13 +6,13 @@
         "dev": "next dev",
         "build": "webpack --mode=production --node-env=production",
         "start": "next start",
-        "lint": "next lint",
+        "eslint": "next lint",
         "build:dev": "webpack --mode=development",
         "build:prod": "webpack --mode=production --node-env=production",
         "watch": "webpack --watch",
         "serve": "webpack serve",
         "prepare": "husky install",
-        "prepush": "npm lint"
+        "prepush": "eslint"
     },
     "dependencies": {
         "@next/font": "13.0.7",

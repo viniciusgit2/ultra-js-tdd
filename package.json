@@ -37,5 +37,17 @@
     "webpack-dev-server": "^4.11.1",
     "workbox-webpack-plugin": "^6.5.4"
   },
-  "description": "My webpack project"
+  "description": "My webpack project",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusgit2/ultra-js-tdd.git"
+  },
+  "keywords": [],
+  "author": "ViniciusPatelFin <4xv6patelfin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusgit2/ultra-js-tdd/issues"
+  },
+  "homepage": "https://github.com/viniciusgit2/ultra-js-tdd#readme"
 }

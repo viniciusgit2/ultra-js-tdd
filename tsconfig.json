@@ -3,7 +3,7 @@
     "allowSyntheticDefaultImports": true,
     "noImplicitAny": true,
     "module": "esnext",
-    "target": "ES6",
+    "target": "es5",
     "allowJs": true,
     "lib": [
       "dom",
@@ -28,7 +28,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/htmljsx"  ],
+  ],
   "exclude": [
     "node_modules"
   ]
